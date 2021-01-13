@@ -1,7 +1,6 @@
 
 # Hello! My name is Marina Oliveira :)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/marinaoliv4)](https://github.com/marinaoliv4)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marina-silva-de-oliveira-908019155/)](https://www.linkedin.com/in/marina-silva-de-oliveira-908019155/)
 
 I am 24 years old (:scorpius:) and I live in northeastern Brazil, in the state of Pernambuco (Recife/PE) :palm_tree: :fire: :sun_with_face:</br>
